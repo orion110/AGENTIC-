@@ -17,9 +17,13 @@
 
 1. Install and run Ollama
 2. Download `BackTrace.html`
-3. Serve the file:
+3. run : ./BackTrace.sh
 
 ```bash
-Run ollama pull qwen2:0.5b to download a model locally. No API key needed.
+sudo apt install docker.io
+docker pull ollama/ollama
+ollama serve
+ollama pull qwen2:0.5b
+./BackTrace.sh
 
 
