@@ -7,7 +7,6 @@
 - Voice input and speech output
 - File uploads
 - Chat history & projects
-- Dark mode
 
   
 [![back2.png](https://i.postimg.cc/PJY0ccVQ/back2.png)](https://postimg.cc/kRMjRjm2)
