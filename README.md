@@ -8,6 +8,9 @@
 - File uploads
 - Chat history & projects
 - Dark mode
+  
+[![back2.png](https://i.postimg.cc/PJY0ccVQ/back2.png)](https://postimg.cc/kRMjRjm2)
+[![back3.png](https://i.postimg.cc/RZXyjwG0/back3.png)](https://postimg.cc/dhZ5CkbM)
 
 ## How to Run
 
@@ -17,3 +20,5 @@
 
 ```bash
 Run ollama pull qwen2:0.5b to download a model locally. No API key needed.
+
+
