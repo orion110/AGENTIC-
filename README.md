@@ -17,7 +17,7 @@
 ## How to Run
 
 1. Install and run Ollama
-2. Download `AGENTIC.html`
+2. Download `Agentic.html`
 3. run : ./AGENTIC.sh
 
 ```bash
@@ -25,6 +25,6 @@ sudo apt install docker.io
 docker pull ollama/ollama
 ollama serve
 ollama pull qwen2:0.5b
-./AGENTIC.sh
+./Agentic.sh
 
 
